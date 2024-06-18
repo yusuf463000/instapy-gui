@@ -13,7 +13,7 @@
   "dependencies": {
     "dockerode": "^2.5.8",
     "jsonwebtoken": "^8.5.1",
-    "ws": "^6.1.4"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
