@@ -21,6 +21,6 @@
     "express-rate-limit": "^5.0.0",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.2.7",
-    "validator": "^11.1.0"
+    "validator": "^13.15.22"
   }
 }
